@@ -1,0 +1,13 @@
+
+
+
+  @media (max-width: 600px) {
+    {
+      display: none; 
+    }
+  }
+  
+  
+ .image:hover{
+	 opacity:0.6;
+ }
